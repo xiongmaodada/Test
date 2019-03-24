@@ -8,7 +8,6 @@ public class HelloWord {
 		System.out.println(3);
 
 
-
 	}
 
 }
